@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m **Vinay** 👋</h1>
 
 <p align="center">
-A passionate developer based in **Mumbai, India** who loves building scalable software.
+A passionate developer based in **Hyderabad, India** who loves building scalable software.
 </p>
 
 <p align="center">
