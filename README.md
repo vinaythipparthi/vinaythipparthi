@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm **Vinay** 👋</h1>
+<h1 align="center">Hi, I'm Vinay 👋</h1>
 
 <p align="center">
 A curious and enthusiastic developer based in <strong>Hyderabad, India</strong> who loves building scalable software and exploring new technologies. Currently honing my full‑stack web development skills with Java DSA at AccioJobs.
