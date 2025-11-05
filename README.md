@@ -65,16 +65,17 @@ Here are some projects I'm proud of:
 </div>
 
 
-## 📝 Blog & Writing
+
+##  Blog & Writing
 
 I plan to share my learning journey and tutorials on topics like data analytics, machine learning, and full‑stack web development soon.
 
 ## 🏅 Achievements & Certifications
 
 - IBM SkillsBuild Data Analytics Internship certificate.
-- Swecha Machine Learning Internship certificate.
+- Swecha Machine Learning Interificate
 
-## 📊 GitHub Stats
+## 📊 GitHub 
 
 [![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaythipparthi&show_icons=true&hide_title=true)](https://github.com/vinaythipparthi)
 
