@@ -19,7 +19,7 @@ I'm an enthusiastic and curious developer with a passion for modern web technolo
 - 👨‍💻 **Current Role:** Aspiring software engineer & full‑stack web developer
 - 🎓 **Education:** B.Tech. in Computer Science (Nalla Malla Reddy Engineering College, Hyderabad)
 - 💡 **Current Learning:** Full‑stack web development and Java DSA through AccioJobs
-- 🧠 **Technical Skills:** `Java`, `Python (basic)`, `HTML`, `CSS`, `JavaScript`, `SQL`
+- 🧠 **Technical Skills:** `Java`, `Python`, `HTML`, `CSS`, `JavaScript`, `SQL`
 - 🚧️ **Tools & Concepts:** `VS Code`, `Git & GitHub`, `Linux (basics)`, `OOP`, `Exception Handling`, `Collections`, `Debugging`, `Version Control`
 - 📚 **Ask me about:** Data Structures & Algorithms, web development, machine learning, data analytics
 - 🎀 **Interests:** Exploring data analytics, machine learning, and building full‑stack applications
