@@ -137,7 +137,7 @@ Feel free to reach out on LinkedIn or via email if you'd like to collaborate or 
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
 </a>
 
-<a href="https://leetcode.com/" target="_blank">
+<a href="https://leetcode.com/vinaythipparthi" target="_blank">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode"/>
 </a>
 
