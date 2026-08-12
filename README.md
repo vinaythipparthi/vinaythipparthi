@@ -1,88 +1,150 @@
-<h1 align="center">Hi, I'm Vinay 👋</h1>
+# Hey <img src="https://github.com/Abanoub-Asaad/Abanoub/blob/main/Images/wave.gif" width="40px" height="35px">, It's Vinay!
 
-<p align="center">
-A curious and enthusiastic developer based in <strong>Hyderabad, India</strong> who loves building scalable software and exploring new technologies. Currently honing my full‑stack web development skills with Java DSA at AccioJobs.
-</p>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vinaythipparthi)
 
-<p align="center">
-<a href="https://your-website.com">Website</a> ·
-<a href="https://www.linkedin.com/in/vinaythipparthi">LinkedIn</a> ·
-<a href="mailto:thipparthivinay99@gmail.com">Email</a>
-</p>
+<a href="https://stackoverflow.com/">
+  <img src="https://stackoverflow.com/users/flair/33023133.png?theme=dark" width="208" height="58" alt="Stack Overflow" title="Stack Overflow">
+</a> 
+<img width="100" height="58" alt="gif" src="https://github.com/Abanoub-Asaad/Abanoub-Asaad/blob/main/Images/pepe-frog.gif?raw=true" />
 
----
+### About Me 🚀
 
-## ✪️ About Me
+🎓 I'm a Computer Science Graduate from Nalla Malla Reddy Engineering College. <br>
+👨‍💻 I'm interested in Backend Development, Problem Solving, Java, and Data Structures & Algorithms. <br>
+🌱 Currently improving my skills in Java, Spring Boot, DBMS, SQL, and Full-Stack Development. <br>
+📧 How to reach me: [thipparthivinay99@gmail.com](mailto:thipparthivinay99@gmail.com)
 
-I'm an enthusiastic and curious developer with a passion for modern web technologies and problem‑solving. With a B.Tech. in Computer Science from **Nalla Malla Reddy Engineering College, Hyderabad**, I enjoy building projects that make an impact and contribute to open‑source.
+### My Experiences 🙌
 
-- 👨‍💻 **Current Role:** Aspiring software engineer & full‑stack web developer
-- 🎓 **Education:** B.Tech. in Computer Science (Nalla Malla Reddy Engineering College, Hyderabad)
-- 💡 **Current Learning:** Full‑stack web development and Java DSA through AccioJobs
-- 🧠 **Technical Skills:** `Java`, `Python`, `HTML`, `CSS`, `JavaScript`, `SQL`
-- 🚧️ **Tools & Concepts:** `VS Code`, `Git & GitHub`, `Linux (basics)`, `OOP`, `Exception Handling`, `Collections`, `Debugging`, `Version Control`
-- 📚 **Ask me about:** Data Structures & Algorithms, web development, machine learning, data analytics
-- 🎀 **Interests:** Exploring data analytics, machine learning, and building full‑stack applications
-- 👥 **Languages:** English, Telugu, Hindi
-- 🤝 **Open to collaborating on:** Web apps, REST APIs, machine learning projects, data analytics, open‑source contributions
-- 📧 **Reach me at:** [thipparthivinay99@gmail.com](mailto:thipparthivinay99@gmail.com)
+* **Data Analytics Intern** [(IBM SkillsBuild)](https://skillsbuild.org/) - Worked with datasets, data cleaning, analysis, visualization, and dashboards.
+* **Machine Learning Intern** [(Swecha)](https://swecha.org/) - Worked with machine-learning concepts, data preprocessing, and Python libraries such as Pandas and Scikit-learn.
+* **Full-Stack Development & Java DSA Training** [(AccioJobs)](https://acciojob.com/) - Currently developing skills in Java, DSA, backend development, SQL, and full-stack web development.
 
-## 💼 Experience
+### Featured Projects 🚀
 
-- **Data Analytics Intern, IBM SkillsBuild (Jan 2024 – Mar 2024)** – Cleaned, analyzed and visualized data sets, created interactive dashboards, and improved data workflows through automation scripts.
-- **Machine Learning Intern, Swecha (Aug 2023 – Oct 2023)** – Supported development of machine‑learning models, applied data preprocessing, and used Python libraries like scikit‑learn and pandas to improve documentation.
+* **Student Performance Prediction** - Built a machine-learning project to predict students' final academic performance using multiple machine-learning algorithms including KNN, Linear Regression, Decision Trees, Random Forest, and SVM. Achieved approximately 75% accuracy.
+* **Library Management System** - Developed a menu-driven Java application for managing books and user records using Object-Oriented Programming principles and JDBC.
+* **Portfolio Website** - Designed and developed a responsive personal portfolio website using HTML, CSS, and JavaScript.
 
-## 🚀 Featured Projects
+### Problem Solving 🧠
 
-Here are some projects I'm proud of:
+* Solved **200+ problems on LeetCode**
+* Practicing Data Structures & Algorithms using Java
+* Working with patterns such as:
 
-- **Student Performance Prediction (Machine Learning)** – Led a team to build a model predicting students’ final grades based on midterm and departmental data using algorithms like KNN, linear regression, decision trees, random forest and SVM. Achieved ~75 % accuracy by analyzing student data and implementing multiple models.
-- **Library Management System (Java)** – Developed a menu‑driven Java application to manage book inventory and user records using OOP principles and JDBC.
-- **Portfolio Website** – Designed and built a responsive personal website using HTML, CSS and JavaScript to showcase my skills and projects.
+  * Arrays
+  * Strings
+  * Hashing
+  * Two Pointers
+  * Sliding Window
+  * Binary Search
+  * Stack & Queue
+  * Linked Lists
+  * Trees
+  * Recursion
+  * Sorting
+  * Dynamic Programming
 
-## 🚧 Tech Stack & Tools
+### Latest Learning 📚
 
-<!-- `Java` · `Python` · `HTML/CSS` · `JavaScript` · `SQL` · `React` · `Node.js` · `Git` · `GitHub` · `VS Code` · `Linux` -->
+* Java & Advanced Java
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Spring & Spring Boot
+* REST APIs
+* SQL & DBMS
+* MySQL
+* Git & GitHub
+* Backend Development
 
-### Languages
+### Hobbies ✨
+
+* 💻 Coding
+* 🧩 Problem Solving
+* 📚 Learning new technologies
+* 🎮 Exploring technology and software
+
+### Tech Stack 🛠️
+
+#### Languages
+
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+
 </div>
 
-### Technologies & Tools
+#### Backend & Frameworks
+
 <div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge&logo=java&logoColor=white" alt="JDBC">
+
 </div>
 
+#### Tools
 
+<div align="left">
 
-##  Blog & Writing
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 
-I plan to share my learning journey and tutorials on topics like data analytics, machine learning, and full‑stack web development soon.
+</div>
 
-## 🏅 Achievements & Certifications
+### Blog & Writing 📝
 
-- IBM SkillsBuild Data Analytics Internship certificate.
-- Swecha Machine Learning Interificate
+I plan to share my learning journey, programming solutions, and tutorials related to Java, Data Structures & Algorithms, backend development, and software engineering.
 
-## 📊 GitHub 
+### 🏅 Achievements & Certifications
 
-[![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaythipparthi&show_icons=true&hide_title=true)](https://github.com/vinaythipparthi)
+* IBM SkillsBuild Data Analytics Internship Certificate
+* Swecha Machine Learning Internship Certificate
+* 200+ LeetCode Problems Solved
+* B.Tech. in Computer Science
 
-## 🤝 Connect With Me
+### 📊 GitHub
 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vinaythipparthi&show_icons=true&locale=en&theme=chartreuse-dark" align="center" alt="Vinay's GitHub Stats" />
+
+</p>
+
+### 🤝 Connect With Me 📭
 Feel free to reach out on LinkedIn or via email if you'd like to collaborate or simply say hello. Let’s connect and build something awesome together!
 
+<p align="left">
+
+<a href="https://www.linkedin.com/in/vinaythipparthi/" target="_blank">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:thipparthivinay99@gmail.com">
+  <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email"/>
+</a>
+
+<a href="https://github.com/vinaythipparthi" target="_blank">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+</a>
+
+<a href="https://leetcode.com/" target="_blank">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode"/>
+</a>
+
+</p>
+
+<br>
+
 ---
 
-<p align="center">Thanks for stopping by 🌛</p>
+<p align="center">Thanks for stopping by 🌙</p>
