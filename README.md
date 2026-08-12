@@ -112,13 +112,13 @@ I plan to share my learning journey, programming solutions, and tutorials relate
 * 200+ LeetCode Problems Solved
 * B.Tech. in Computer Science
 
-### 📊 GitHub
+<!-- ### 📊 GitHub
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=vinaythipparthi&show_icons=true&locale=en&theme=chartreuse-dark" align="center" alt="Vinay's GitHub Stats" />
 
-</p>
+</p> -->
 
 ### 🤝 Connect With Me 📭
 Feel free to reach out on LinkedIn or via email if you'd like to collaborate or simply say hello. Let’s connect and build something awesome together!
